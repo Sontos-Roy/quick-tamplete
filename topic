@@ -1,0 +1,37 @@
+section define 
+layout define
+asset gether
+    img
+    text 
+    logo 
+        text 
+        icon 
+        text+icon 
+    others 
+code comment
+semantic markup 
+seo optimized code 
+speed optimized code 
+avoid code repeating
+code serial
+ui ux 
+    logo - color -
+    consistancy 
+    spacing 
+
+bug free code
+
+tag:first-child()
+tag:last-child()
+tag:nth-child(1/2/3..)
+tag:nth-child(even)
+tag:nth-child(odd)
+
+color code
+
+*color name : blue
+*hax color : #000000
+*rgb color : rgb(255,255,255)
+*rgba color: rgba(255,255,255,1)
+
+http://extractcss.com/ //for devided html class to css class 
